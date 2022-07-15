@@ -5,7 +5,7 @@
 
 将以下代码粘贴至Replit Shell后回车
 
-`git clone https://github.com/Sayafx/typechonreplit.git && mv -b typechonreplit/* ./ && mv -b typechonreplit/.[^.]* ./ && rm -rf *~ && rm -rf typechonreplit`
+`git clone https://github.com/Sayafx/Alist-Replit-Edu.git && mv -b Alist-Replit-Edu/* ./ && mv -b Alist-Replit-Edu/.[^.]* ./ && rm -rf *~ && rm -rf Alist-Replit-Edu`
 
 当加载完 Detected change in environment, reloading shell...
 在Shell输入`sh main.sh`初始化，初始化完成后点击绿色 ▶ Run 运行
