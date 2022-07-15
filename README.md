@@ -11,6 +11,10 @@
 
 当加载完 Loading Nix environment... 后点击绿色 ▶ Run
 
+## 密码
+
+密码会在console里随机生成
+
 需要自行添加数据库来保存配置
 
  ## Database
@@ -19,7 +23,7 @@ You may need to use another remote MySQL/Postgres database as local sqlite3 is p
 - https://db4free.net/
 - https://remotemysql.com/
 - https://www.freesqldatabase.com/
-- https://planetscale.com/
+- https://planetscale.com/  （推荐）
 - https://bit.io/
 - https://www.elephantsql.com/
 - https://scalingo.com/
@@ -41,5 +45,4 @@ How to change the database?
 > ```
 > The secrets is private so you don't need to worry about leaking your data.
 
-## Password
-The initial password is randomly generated, and you can get it by checking the console logs.
+
